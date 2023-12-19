@@ -1,0 +1,5 @@
+cd \Temp
+powershell.exe -ExecutionPolicy RemoteSigned -File "C:\Temp\InstallTools.ps1"
+pause
+
+
